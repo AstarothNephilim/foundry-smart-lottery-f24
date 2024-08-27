@@ -6,9 +6,17 @@ out/
 !/broadcast
 /broadcast/*/31337/
 /broadcast/**/dry-run/
-
+/node_modules
 # Docs
 docs/
 
 # Dotenv file
 .env
+
+node_modules
+
+images_claude/        
+package-lock.json
+package.json
+lib/solmate
+lib/foundry_devops
